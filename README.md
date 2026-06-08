@@ -47,5 +47,5 @@ This method uses a tool called Special K to hide your physical controller from F
 With this method, Forza should only receive input from Forzassist’s virtual controller, which avoids double inputs from the physical controller.
 
 # You might ask, is this bannable? 
-Well i've been using it for about a month now every day online and nothing has happened, keep in mind that after all this isn't a cheat, just a tool we're using to hide our controller from the game, nothing else. People have been using this tool in previous Forza Horizon titles without ever being banned, so do with that information as you will.
+Well i've been using it for about a month now every day online and nothing has happened, keep in mind that after all, this isn't a cheat, just a tool we're using to hide our controller from the game, nothing else. People have been using this tool in previous Forza Horizon titles without ever being banned, so do with that information as you will.
 
