@@ -17,5 +17,32 @@ I spent days and nights testing, breaking things, tuning values, and rebuilding 
 - Uses slip angle and yaw rate to calculate assisted steering
 - Outputs to a virtual Xbox 360 controller using `vgamepad`
 
-## Installation Methods (wip)
+## Installation
+
+# Method 1 (Easiest)
+1. Install Forzassist_setup.exe
+2. Run Forzassist
+3. Press on the ⚙ icon at the top right.
+4. Enable "Double-Shift Fix" and bind the in-game buttons you use to upshift and downshift.
+5. Once in-game, navigate to Settings > Hud & Gameplay > Telemetry, enable it and set your Data Out IP Address to 127.0.0.1 and your IP Port to 5600.
+6. Start the assist and enjoy!
+
+# Method 2 (Hiding your real controller from Forza)
+
+This method uses a tool called Special K to hide your physical controller from Forza, so Forza only reads the virtual controller created by Forzassist.
+
+1. Install Special K. (https://www.special-k.info/)
+2. Open Special K / SKIF.exe
+3. Add or select Forza.
+4. Launch Forza through Special K.
+5. If Special K shows a compatibility warning asking to use Local Injection or SKIF, click OK.
+6. Once the game opens, press `Ctrl + Shift + Backspace` to open the Special K control panel.
+7. Go to `Input Management > Gamepad`.
+8. Hide/block your real controller from the game.
+<img width="819" height="880" alt="image" src="https://github.com/user-attachments/assets/5432f737-9e58-4e8e-9035-134971e7c591" />
+9. Leave Forzassist’s virtual controller visible to the game.
+10. Close the Special K menu with `Ctrl + Shift + Backspace`.
+11. Open Forzassist and press Start Assist.
+
+With this method, Forza should only receive input from Forzassist’s virtual controller, which avoids double inputs from the physical controller.
 
