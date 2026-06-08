@@ -1,5 +1,7 @@
 # Intro
 
+<img width="1280" height="480" alt="banner" src="https://github.com/user-attachments/assets/84aed8d6-f8b0-4bd0-bc18-5e7b2e37d05f" />
+
 Forzassist is a Python drift-assist tool for Forza Horizon 6 inspired by CarX Drift Racing Online. It reads Forza's UDP telemetry and provides countersteering through a virtual Xbox controller.
 
 It works by
