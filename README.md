@@ -40,14 +40,14 @@ This method uses a tool called Special K to hide your physical controller from F
 5. If Special K shows a compatibility warning asking to use Local Injection or SKIF, click OK.
    <img width="370" height="196" alt="image" src="https://github.com/user-attachments/assets/a2fe44b3-d3aa-4ad0-ae8f-c598275b16ef" />
 
-7. Once the game opens, press `Ctrl + Shift + Backspace` to open the Special K control panel.
-8. Go to `Input Management > Gamepad`.
-9. Hide/block your real controller from the game (usually just need to disable XInput slot 0 and enable slot 1 as seen in the image)
+6. Once the game opens, press `Ctrl + Shift + Backspace` to open the Special K control panel.
+7. Go to `Input Management > Gamepad`.
+8. Hide/block your real controller from the game (usually just need to disable XInput slot 0 and enable slot 1 as seen in the image)
 <img width="409" height="440" alt="image" src="https://github.com/user-attachments/assets/6356edb3-aa02-46c3-844d-0ffd2a2d3bce" />
 
-10. Close the Special K menu with `Ctrl + Shift + Backspace`.
-11. Make sure your Telemetry Data Out IP Address is set to 127.0.0.1 and your IP Port to 5600 just like in the first method.
-12. Run Forzassist, Start the assist and enjoy! 😄
+9. Close the Special K menu with `Ctrl + Shift + Backspace`.
+10. Make sure your Telemetry Data Out IP Address is set to 127.0.0.1 and your IP Port to 5600 just like in the first method.
+11. Run Forzassist, Start the assist and enjoy! 😄
 
 With this method, Forza should only receive input from Forzassist’s virtual controller, which avoids double inputs from the physical controller, rendering the shifting issue obsolete.
 
