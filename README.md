@@ -19,8 +19,8 @@ I spent days and nights testing, breaking things, tuning values, and rebuilding 
 
 # Installation
 
-## Method 1 (Easiest)
-1. Install Forzassist_setup.exe
+## First Method (Easiest)
+1. Install Forzassist_Setup.exe
 2. Run Forzassist
 3. Press on the ⚙ icon at the top right.
 4. Enable "Double-Shift Fix" and bind the in-game buttons you use to upshift and downshift.
@@ -29,7 +29,7 @@ I spent days and nights testing, breaking things, tuning values, and rebuilding 
 
 6. Start the assist and enjoy!
 
-## Method 2 (Hiding your real controller only from Forza)
+## Second Method (Hiding your real controller only from Forza)
 
 This method uses a tool called Special K to hide your physical controller from Forza, so Forza only reads the virtual controller created by Forzassist.
 
