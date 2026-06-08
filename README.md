@@ -27,23 +27,25 @@ I spent days and nights testing, breaking things, tuning values, and rebuilding 
 5. Once in-game, navigate to Settings > Hud & Gameplay > Telemetry, enable it and set your Data Out IP Address to 127.0.0.1 and your IP Port to 5600.
 6. Start the assist and enjoy!
 
-## Method 2 (Hiding your real controller from Forza)
+## Method 2 (Hiding your real controller only from Forza)
 
 This method uses a tool called Special K to hide your physical controller from Forza, so Forza only reads the virtual controller created by Forzassist.
 
 1. Install Special K. (https://www.special-k.info/)
 2. Open Special K / SKIF.exe
-3. Add or select Forza.
-4. Launch Forza through Special K.
+3. Add or select Forza Horizon 6.
+4. Launch Forza Horizon 6 through Special K.
 5. If Special K shows a compatibility warning asking to use Local Injection or SKIF, click OK.
 6. Once the game opens, press `Ctrl + Shift + Backspace` to open the Special K control panel.
 7. Go to `Input Management > Gamepad`.
-8. Hide/block your real controller from the game. 
+8. Hide/block your real controller from the game (usually just need to disable XInput slot 0 and enable slot 1 as seen in the image)
 <img width="409" height="440" alt="image" src="https://github.com/user-attachments/assets/6356edb3-aa02-46c3-844d-0ffd2a2d3bce" />
 
-9. Leave Forzassist’s virtual controller visible to the game.
-10. Close the Special K menu with `Ctrl + Shift + Backspace`.
-11. Open Forzassist and press Start Assist.
+9. Close the Special K menu with `Ctrl + Shift + Backspace`.
+10. Open Forzassist, start the assist and enjoy 😄
 
 With this method, Forza should only receive input from Forzassist’s virtual controller, which avoids double inputs from the physical controller.
+
+# You might ask, is this bannable? 
+Well i've been using it for about a month now every day online and nothing has happened, keep in mind that after all this isn't a cheat, just a tool we're using to hide our controller from the game, nothing else. People have been using this tool in previous Forza Horizon titles without ever being banned, so do with that information as you will.
 
