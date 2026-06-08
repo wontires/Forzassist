@@ -36,13 +36,15 @@ This method uses a tool called Special K to hide your physical controller from F
 3. Add or select Forza Horizon 6.
 4. Launch Forza Horizon 6 through Special K.
 5. If Special K shows a compatibility warning asking to use Local Injection or SKIF, click OK.
-6. Once the game opens, press `Ctrl + Shift + Backspace` to open the Special K control panel.
-7. Go to `Input Management > Gamepad`.
-8. Hide/block your real controller from the game (usually just need to disable XInput slot 0 and enable slot 1 as seen in the image)
+   <img width="370" height="196" alt="image" src="https://github.com/user-attachments/assets/a2fe44b3-d3aa-4ad0-ae8f-c598275b16ef" />
+
+7. Once the game opens, press `Ctrl + Shift + Backspace` to open the Special K control panel.
+8. Go to `Input Management > Gamepad`.
+9. Hide/block your real controller from the game (usually just need to disable XInput slot 0 and enable slot 1 as seen in the image)
 <img width="409" height="440" alt="image" src="https://github.com/user-attachments/assets/6356edb3-aa02-46c3-844d-0ffd2a2d3bce" />
 
-9. Close the Special K menu with `Ctrl + Shift + Backspace`.
-10. Open Forzassist, start the assist and enjoy 😄
+10. Close the Special K menu with `Ctrl + Shift + Backspace`.
+11. Open Forzassist, start the assist and enjoy 😄
 
 With this method, Forza should only receive input from Forzassist’s virtual controller, which avoids double inputs from the physical controller, rendering the shifting issue obsolete.
 
