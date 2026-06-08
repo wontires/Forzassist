@@ -17,10 +17,5 @@ I spent days and nights testing, breaking things, tuning values, and rebuilding 
 - Uses slip angle and yaw rate to calculate assisted steering
 - Outputs to a virtual Xbox 360 controller using `vgamepad`
 
-## Installation Methods
+## Installation Methods (wip)
 
-### Why Special K is used
-
-Forzassist reads your real physical controller and outputs a virtual Xbox controller. Without hiding the physical controller from Forza, the game may receive both the original controller input and the assisted virtual controller input at the same time, which can lead to double-input issues like going up two gears while only shifting once for example.
-
-Special K is only used to make Forza ignore the physical XInput controller while still allowing the virtual controller to be used by the game.
