@@ -31,7 +31,7 @@ I spent days and nights testing, breaking things, tuning values, and rebuilding 
 
 This method uses a tool called Special K to hide your physical controller from Forza, so Forza only reads the virtual controller created by Forzassist.
 
-1. Install Special K. (https://www.special-k.info/)
+1. Install Special K found at https://www.special-k.info/
 2. Open Special K / SKIF.exe
 3. Add or select Forza Horizon 6.
 4. Launch Forza Horizon 6 through Special K.
