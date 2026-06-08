@@ -44,9 +44,7 @@ This method uses a tool called Special K to hide your physical controller from F
 9. Close the Special K menu with `Ctrl + Shift + Backspace`.
 10. Open Forzassist, start the assist and enjoy 😄
 
-With this method, Forza should only receive input from Forzassist’s virtual controller, which avoids double inputs from the physical controller, rendering this option obsolete.
-<img width="375" height="178" alt="image" src="https://github.com/user-attachments/assets/93be0ac6-9762-4376-865b-8162a84d2744" />
-
+With this method, Forza should only receive input from Forzassist’s virtual controller, which avoids double inputs from the physical controller, rendering the shifting issue obsolete.
 
 # You might ask, is this bannable? 
 Well i've been using it for about a month now every day online and nothing has happened, keep in mind that after all, this isn't a cheat, just a tool we're using to hide our controller from the game, nothing else. People have been using this tool in previous Forza Horizon titles without ever being banned, so do with that information as you will.
