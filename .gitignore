@@ -1,0 +1,15 @@
+.venv/
+.venv_embed/
+build/
+dist/
+dist_embedded/
+release/
+installer/Output/
+tools/
+
+*.log
+*.tmp
+*.pyc
+__pycache__/
+
+redist/*.exe

@@ -1,0 +1,12 @@
+Place your font files here, or in ./fonts, or next to main.py.
+
+Recognized names include:
+- Inter_18pt-Regular.ttf
+- Inter_18pt-Medium.ttf
+- Inter_18pt-bold.ttf
+- Inter_18pt-Bold.ttf
+- Inter-Regular.ttf
+- Inter-Medium.ttf
+- Inter-Bold.ttf
+
+The Python launcher searches multiple locations and loads fonts before QML starts.
