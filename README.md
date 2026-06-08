@@ -26,7 +26,9 @@ I spent days and nights testing, breaking things, tuning values, and rebuilding 
 3. Press on the ⚙ icon at the top right.
 4. Enable "Double-Shift Fix" and bind the in-game buttons you use to upshift and downshift.
 5. Once in-game, navigate to `Settings > Hud & Gameplay > Telemetry` enable it and set your Data Out IP Address to 127.0.0.1 and your IP Port to 5600.
-6. Start the assist and enjoy!
+   <img width="1005" height="218" alt="image" src="https://github.com/user-attachments/assets/4fa30acb-cda8-42f9-8db7-ca66df0de491" />
+
+7. Start the assist and enjoy!
 
 ## Method 2 (Hiding your real controller only from Forza)
 
