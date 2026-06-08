@@ -44,7 +44,8 @@ This method uses a tool called Special K to hide your physical controller from F
 <img width="409" height="440" alt="image" src="https://github.com/user-attachments/assets/6356edb3-aa02-46c3-844d-0ffd2a2d3bce" />
 
 10. Close the Special K menu with `Ctrl + Shift + Backspace`.
-11. Open Forzassist, start the assist and enjoy 😄
+11. Make sure your Telemetry Data Out IP Address is set to 127.0.0.1 and your IP Port to 5600 just like in the first method.
+12. Run Forzassist, Start the assist and enjoy! 😄
 
 With this method, Forza should only receive input from Forzassist’s virtual controller, which avoids double inputs from the physical controller, rendering the shifting issue obsolete.
 
