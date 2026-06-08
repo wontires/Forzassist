@@ -19,7 +19,7 @@ I spent days and nights testing, breaking things, tuning values, and rebuilding 
 
 # Requirements
 
-* Windows
+* Windows 10/11
 * Forza with Data Out telemetry enabled
 * A controller
 * ViGEmBus virtual controller driver
